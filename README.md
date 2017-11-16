@@ -13,6 +13,6 @@ In my project, I need to implement CRUD operation of multiple models (Dictionary
 
 ![alt text](./Repo_Ser_Diagram.png?raw=true)
 
-# Src
+# Source code
 
-[src](./src)
+Related source code is [here](./src).
