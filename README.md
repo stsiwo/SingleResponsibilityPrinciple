@@ -1,5 +1,4 @@
-# separation of concerns
-brief Single Responsibility Principle explained with Controller, Repository, Service class
+# Repository pattern and Service layer explained in Laravel 5.4
 
 ## Introduction
 
